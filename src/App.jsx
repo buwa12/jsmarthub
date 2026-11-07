@@ -1,10 +1,10 @@
 import { Routes, Route } from "react-router-dom";
 import Layout from "./Components/Layout";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Solutions from "./pages/Solutions";
-import Academy from "./pages/Academy";
-import Contact from "./pages/Contact";
+import Home from "./Pages/Home";
+import About from "./Pages/About";
+import Solutions from "./Pages/Solutions";
+import Academy from "./Pages/Academy";
+import Contact from "./Pages/Contact";
 
 export default function App() {
   return (
